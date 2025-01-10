@@ -182,4 +182,4 @@ iterations=20
 fit_steps=300
 memory_size=100000
 
-_,_,_,_,_,Q = generation_procedure(env_rand, env, nb_patients, iterations, fit_steps, memory_size)
+# _,_,_,_,_,Q = generation_procedure(env_rand, env, nb_patients, iterations, fit_steps, memory_size)
